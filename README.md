@@ -5,7 +5,7 @@ maven-repo
 
 mvn deploy -DaltDeploymentRepository=doctorwho-maven-repo::default::file:/Users/xx/git/maven-repo/repositories/releases
 
-mvn deploy -DaltDeploymentRepository=doctorwho-maven-repo-s::default::file:/Users/xx/git/maven-repo/repositories/releases
+mvn deploy -DaltDeploymentRepository=doctorwho-maven-repo-s::default::file:/Users/xx/git/maven-repo/repositories/snapshots
 
 
 # pom使用
