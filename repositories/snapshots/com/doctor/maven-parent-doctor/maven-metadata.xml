@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.doctor</groupId>
+  <artifactId>maven-parent-doctor</artifactId>
+  <versioning>
+    <versions>
+      <version>2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160504065630</lastUpdated>
+  </versioning>
+</metadata>
