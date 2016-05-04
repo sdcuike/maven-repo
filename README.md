@@ -5,7 +5,7 @@ maven-repo
 
 mvn deploy -DaltDeploymentRepository=doctorwho-maven-repo::default::file:/Users/xx/git/maven-repo/repositories/releases
 
-mvn deploy -DaltDeploymentRepository=doctorwho-maven-repo::default::file:/Users/xx/git/maven-repo/repositories/releases
+mvn deploy -DaltDeploymentRepository=doctorwho-maven-repo-s::default::file:/Users/xx/git/maven-repo/repositories/releases
 
 
 # pom使用
@@ -13,11 +13,11 @@ mvn deploy -DaltDeploymentRepository=doctorwho-maven-repo::default::file:/Users/
     <repositories>
         <repository>
             <id>doctorwho-maven-repo</id>
-            <url>https://raw.githubusercontent.com/sdcuike/maven-repo/master/repository/releases</url>
+            <url>https://raw.githubusercontent.com/sdcuike/maven-repo/master/repositories/releases</url>
         </repository>
         <repository>
-            <id>doctorwho-maven-repo</id>
-            <url>https://raw.githubusercontent.com/sdcuike/maven-repo/master/repository/snapshots</url>
+            <id>doctorwho-maven-repo-s</id>
+            <url>https://raw.githubusercontent.com/sdcuike/maven-repo/master/repositories/snapshots</url>
         </repository>
     </repositories>
  
