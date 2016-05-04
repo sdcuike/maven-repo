@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ofpay</groupId>
+  <artifactId>dubbo-rpc-jsonrpc</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160504103448</lastUpdated>
+  </versioning>
+</metadata>
